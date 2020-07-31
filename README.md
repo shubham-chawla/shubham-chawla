@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Shubham 👋
+
+Thinking about components and ways of making them
+
+* Developer at BookMyShow, India
 
 <!--
 **shubham-chawla/shubham-chawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
