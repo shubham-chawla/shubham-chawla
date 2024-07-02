@@ -2,7 +2,7 @@
 
 Thinking about components and ways of making them
 
-* Developer at KeepWorks, India
+* Developer @DocBuddy
 
 <!--
 **shubham-chawla/shubham-chawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
